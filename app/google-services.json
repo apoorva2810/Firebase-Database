@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "861432372193",
+    "firebase_url": "https://user-authentication-syst-51617.firebaseio.com",
+    "project_id": "user-authentication-syst-51617",
+    "storage_bucket": "user-authentication-syst-51617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861432372193:android:e196beffe9ab2c94",
+        "android_client_info": {
+          "package_name": "com.apoorvasingh2810.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861432372193-hactndlm6ld86tid6mhe9vdf0e8qm944.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apoorvasingh2810.firebasedatabase",
+            "certificate_hash": "044c9df25f0f4605e92941c0a6fe8f7a77b15378"
+          }
+        },
+        {
+          "client_id": "861432372193-cfg8onr49nth5t68qnoohe73fapgk14r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBVHVgrx0chzrihDPxzvQca14bwmd5Fw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861432372193-cfg8onr49nth5t68qnoohe73fapgk14r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861432372193:android:296e8a05da8d3e83",
+        "android_client_info": {
+          "package_name": "com.apoorvasingh2810.userauthenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861432372193-83eavr6mq8qc989k54duddi9nfvimcca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apoorvasingh2810.userauthenticationapp",
+            "certificate_hash": "044c9df25f0f4605e92941c0a6fe8f7a77b15378"
+          }
+        },
+        {
+          "client_id": "861432372193-cfg8onr49nth5t68qnoohe73fapgk14r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBVHVgrx0chzrihDPxzvQca14bwmd5Fw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861432372193-cfg8onr49nth5t68qnoohe73fapgk14r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
